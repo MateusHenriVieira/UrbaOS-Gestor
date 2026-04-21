@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253656869131",
+    "project_id": "urbaos-309a2",
+    "storage_bucket": "urbaos-309a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253656869131:android:2527884837ff0e234f5a0e",
+        "android_client_info": {
+          "package_name": "com.mateus.urbaos_gestor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBon2hJ6laBv9YofkPx-5QowpTJJmi0sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253656869131:android:4fa5e30efc1b6a4e4f5a0e",
+        "android_client_info": {
+          "package_name": "com.mateus.urbaos_gestor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBon2hJ6laBv9YofkPx-5QowpTJJmi0sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

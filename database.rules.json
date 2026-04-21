@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "live_tracking": {
+      ".read": "auth != null",
+      ".indexOn": ["department", "osId", "status"],
+      "$uid": {
+        ".write": "auth != null && auth.uid === $uid"
+      }
+    }
+  }
+}
