@@ -1,4 +1,4 @@
-# UrbaOS Admin
+# UrbaOS Gestor
 
 <div align="center">
 
@@ -239,8 +239,8 @@ intl: ^0.20.0                 # Internationalization
 
 #### 1. **Clone o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/urbaos_admin.git
-cd urbaos_admin
+git clone https://github.com/mateushenrivieira/urbaos-gestor.git
+cd urbaos_gestor
 ```
 
 #### 2. **Configure o Ambiente Flutter**
@@ -669,7 +669,7 @@ import 'package:urbaos_gestor/features/auth/presentation/bloc/auth_bloc.dart';
 | Canal | Contato |
 |-------|---------|
 | **Email** | dev@urbaos.com.br |
-| **Issues** | [GitHub Issues](https://github.com/seu-usuario/urbaos_admin/issues) |
+| **Issues** | [GitHub Issues](https://github.com/mateushenrivieira/urbaos-gestor/issues) |
 | **Slack** | #dev-urbaos |
 | **Wiki** | [Team Wiki](https://wiki.internal.com/urbaos) |
 
